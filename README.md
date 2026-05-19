@@ -1,6 +1,7 @@
-# Nama  : Amalia
+# Nama  : Amalia Mirasafitri
 # NIM   : F1D02310002
 # Kelas : Pemrograman Visual C
+
 
 # Tugas 5 — Threading & REST API
 

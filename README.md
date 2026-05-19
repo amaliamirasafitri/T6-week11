@@ -33,13 +33,13 @@ python main.py
 ## Screenshot
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](ss/Dashboard.jpeg)
 
 ### Tambah Post
-![Tambah](screenshots/add_post.png)
+![Tambah](ss/add.jpeg)
 
 ### Edit Post
-![Edit](screenshots/edit_post.png)
+![Edit](ss/edit.jpeg)
 
 ### Delete Post
-![Delete](screenshots/delete_post.png)
+![Delete](ss/delete.jpeg)

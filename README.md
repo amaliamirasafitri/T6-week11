@@ -30,17 +30,3 @@ Aplikasi menerapkan konsep multi-threading menggunakan QThread sehingga seluruh 
 pip install -r requirements.txt
 python main.py
 ```
-
-## Screenshot
-
-### Dashboard
-![Dashboard](ss/Dashboard.jpeg)
-
-### Tambah Post
-![Tambah](ss/add.jpeg)
-
-### Edit Post
-![Edit](ss/edit.jpeg)
-
-### Delete Post
-![Delete](ss/delete.jpeg)
